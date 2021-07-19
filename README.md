@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aswanth-c
 - 👀 I’m interested in computers and softwares
-- 🌱 I’m currently learning web development and java
-- 💞️ I’m looking to collaborate on any java projects
-- 📫 How to reach me you can reach me at  Aswanthpcg@gmail.com or @AswanthChakkin2 in twitter
+- 🌱 I’m currently a  full-stack Web developer.
+- 💞️ I’m looking to collaborate on any web projects or Java projects.
+- 📫 you can reach me at  Aswanthpcg@gmail.com or @AswanthChakkin2 in twitter or  Aswanth#1733 in discord :)
 
 <!---
 Aswanth-c/Aswanth-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
