@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aswanth-c
 - 👀 I’m interested in computers and softwares
 - 🌱 I’m currently a  full-stack Web developer.
-- 💞️ I’m looking to collaborate on any web projects or Java projects.
+- 💞️ I’m looking to collaborate on any web projects.
 - 📫 you can reach me at  Aswanthpcg@gmail.com or @AswanthChakkin2 in twitter or  Aswanth#1733 in discord :)
 
 <!---
